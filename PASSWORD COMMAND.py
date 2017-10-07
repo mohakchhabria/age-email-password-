@@ -18,10 +18,10 @@ else:
      raise SystemExit
 #Password Verifier
 p=(input("Enter Password .1 Tries Remaining.Enter 'forgotpassword' To Recover Your Account:"))
-if p=="mohak_1999":
+if p=="123456":
          print("Access Granted!!.Here Is The Link For Your Account-mohakchhabria@gmail.com:'www.linkredirect.com/mohakchhabria'")
          raise SystemExit
-elif p=="mohak1999":
+elif p=="00000":
     print("Access Granted!!.Here Is The Link For Your Account-mohakchhabriayt@gmail.com:'www.linkredirect.com/mohakchhabriayt'")
     raise SystemExit
 elif p=="hellyeah":
